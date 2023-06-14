@@ -1,7 +1,7 @@
 <h1 align="center">Holograph Building Bridger</h1>
 
 <h2>About the bot</h2>
-Bot for bridgeing new holograph nft Building - https://app.holograph.xyz/ </br>
+Bot for bridging new holograph nft Building - https://app.holograph.xyz/ </br>
 
 
 * Instruction and settings in config.py
